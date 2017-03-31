@@ -1,0 +1,1 @@
+web: ./build/install/my-diary/bin/my-diary
